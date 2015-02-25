@@ -85,5 +85,30 @@
 	<classpathentry kind="lib" path="lib/xz-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/zookeeper-3.4.6.jar"/>
 	<classpathentry kind="lib" path="conf"/>
+	<classpathentry kind="lib" path="Hadoop2PJT.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-daemon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-annotations-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-api-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-applications-distributedshell-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-applications-unmanaged-am-launcher-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-client-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-common-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-applicationhistoryservice-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-common-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-nodemanager-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-resourcemanager-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-tests-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-web-proxy-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="lib/leveldbjni-all-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.8.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

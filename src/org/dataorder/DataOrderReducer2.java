@@ -16,7 +16,6 @@ public class DataOrderReducer2 extends Reducer<Text, Text, Text, Text> {
 		String txt = "";
 		
 		for(Text value : values) {
-			System.out.println("value: " + value);
 			list.add(value.toString());			
 		}
 		
